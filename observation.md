@@ -97,10 +97,17 @@ To analyze the impact of VPN on internet connectivity, privacy, and security by 
 - May **reduce internet speed**
 - **Free tier** has limited server access
 - **Trust** in VPN provider is critical
+---
+
+## 10. Screenshots and Evidence
+
+- ![Before VPN - IP Address](./before_vpn_ip.png)
+- ![After VPN - IP Address](./after_vpn_ip.png)
+- ![ProtonVPN Connection Status](./vpn_connected.png)
 
 ---
 
-## 10. Conclusion
+## 11. Conclusion
 
 **Final Observations:**  
 VPNs significantly improve privacy and data security by masking IP addresses and encrypting traffic.  
