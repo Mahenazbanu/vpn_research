@@ -103,7 +103,7 @@ To analyze the impact of VPN on internet connectivity, privacy, and security by 
 
 - ![Before VPN - IP Address](./Before_vpn.png)
 - ![After VPN - IP Address](./After_vpn.png)
-- ![ProtonVPN Connection Status](./vpn_connected.png)
+- ![ProtonVPN Connection Status](./image.jpg)
 
 ---
 
